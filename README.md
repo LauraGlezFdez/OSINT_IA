@@ -45,8 +45,9 @@ Estado actual: En desarrollo.
 - Scikit-Learn
 - Matplotlib
 - Requests
-- APIs REST
-- Técnicas de Machine Learning No Supervisado
+- Consumo de APIs REST
+- K-Means
+- Análisis de Componentes Principales (PCA)
 
 ---
 
@@ -55,7 +56,8 @@ Estado actual: En desarrollo.
 1. Automatizar la obtención de información desde fuentes abiertas oficiales.
 2. Evaluar la utilidad de técnicas de IA para el análisis exploratorio de datos públicos.
 3. Generar perfiles analíticos de forma automática.
-4. Estudiar la integración de múltiples fuentes OSINT en un entorno unificado de análisis.
+4. Identificar patrones ocultos mediante técnicas de aprendizaje automático no supervisado.
+5. Estudiar la integración de múltiples fuentes OSINT en un entorno unificado de análisis.
 
 ---
 
