@@ -43,6 +43,7 @@ python analizador_cibercriminalidad.py
 
 En ambos casos, el sistema procesará automáticamente los datos, aplicará las técnicas de aprendizaje automático definidas y generará los resultados correspondientes.
 
+Con el fin de garantizar la reproducibilidad del análisis, el conjunto de datos utilizado durante el desarrollo se incluye en el repositorio. No obstante, el sistema permite igualmente emplear versiones actualizadas del dataset obtenidas directamente desde la fuente oficial.
 ---
 
 ## Objetivos
@@ -50,8 +51,7 @@ En ambos casos, el sistema procesará automáticamente los datos, aplicará las 
 - Obtención automatizada de estadísticas de cibercriminalidad.
 - Construcción de datasets estructurados.
 - Análisis exploratorio.
-- Aplicación de técnicas de aprendizaje automático.
-- Integración con el módulo INE.
+- Aplicación de técnicas de aprendizaje automático no supervisado (K-Means y PCA).
 
 ---
 
