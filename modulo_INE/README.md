@@ -6,6 +6,8 @@ Módulo encargado de la obtención y análisis automatizado de información esta
 
 Su objetivo es construir conjuntos de datos a partir de indicadores demográficos, económicos y educativos, permitiendo posteriormente la aplicación de técnicas de análisis exploratorio y aprendizaje automático.
 
+Este módulo constituye un caso práctico de aplicación de técnicas de aprendizaje automático no supervisado sobre una fuente OSINT institucional accesible mediante API pública.
+
 ---
 
 ## Fuente de datos
