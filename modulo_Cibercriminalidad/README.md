@@ -28,6 +28,3 @@ https://estadisticasdecriminalidad.ses.mir.es
 
 ---
 
-## Estado
-
-En desarrollo.
