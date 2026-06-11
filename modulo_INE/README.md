@@ -22,12 +22,12 @@ https://servicios.ine.es/wstempus/js/ES/
 
 - Consulta automática de la API del INE.
 - Descubrimiento y explotación de series estadísticas.
-- Construcción de datasets estructurados.
+- Construcción automática de datasets estructurados.
 - Integración de indicadores socioeconómicos.
 - Normalización y preparación de datos.
 - Clustering mediante algoritmos de aprendizaje no supervisado.
 - Selección automática del número de grupos.
-- Generación de visualizaciones mediante PCA.
+- Reducción de dimensionalidad y visualización de resultados mediante PCA.
 - Elaboración automática de informes.
 
 ---
@@ -65,12 +65,12 @@ El sistema trabaja con indicadores pertenecientes a tres grandes categorías:
 
 ## Resultados actuales
 
-- Más de 100 ciudades analizadas.
+- 111 ciudades analizadas.
 - 17 variables integradas en el modelo.
-- Clustering automático mediante K-Means.
-- Generación de perfiles diferenciados.
-- Visualización PCA.
-- Informe automático en formato Markdown.
+- Identificación automática de 5 clústeres mediante K-Means.
+- Generación automática de perfiles de clústeres.
+- Visualización de resultados mediante PCA.
+- Generación automática de informes en formato Markdown.
 
 ---
 
