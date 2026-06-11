@@ -17,6 +17,33 @@ Ministerio del Interior.
 https://estadisticasdecriminalidad.ses.mir.es
 
 ---
+## Ejecución del módulo de cibercriminalidad
+
+El sistema requiere como entrada el conjunto de datos oficial empleado para el análisis de la cibercriminalidad provincial.
+
+### Opción 1: Utilizar el fichero incluido en el repositorio
+
+El repositorio incorpora el fichero `cibercriminalidad_provincias.csv`, por lo que el análisis puede ejecutarse directamente mediante:
+
+```bash
+pip install -r requirements.txt
+python analizador_cibercriminalidad.py
+```
+
+### Opción 2: Descargar nuevamente los datos desde la fuente oficial
+
+Alternativamente, el usuario puede obtener la información actualizada desde el Portal Estadístico de Criminalidad del Ministerio del Interior. Una vez descargado el fichero correspondiente, deberá guardarse con el nombre `cibercriminalidad_provincias.csv` en la misma carpeta que el script `analizador_cibercriminalidad.py`.
+
+Posteriormente, la ejecución se realiza mediante:
+
+```bash
+pip install -r requirements.txt
+python analizador_cibercriminalidad.py
+```
+
+En ambos casos, el sistema procesará automáticamente los datos, aplicará las técnicas de aprendizaje automático definidas y generará los resultados correspondientes.
+
+---
 
 ## Objetivos
 
