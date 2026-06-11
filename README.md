@@ -59,6 +59,3 @@ Estado actual: En desarrollo.
 
 ---
 
-## Estado del proyecto
-
-Versión experimental en desarrollo.
