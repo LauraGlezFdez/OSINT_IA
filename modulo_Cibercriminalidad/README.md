@@ -52,6 +52,6 @@ Con el fin de garantizar la reproducibilidad del análisis, el conjunto de datos
 - Construcción de datasets estructurados.
 - Análisis exploratorio.
 - Aplicación de técnicas de aprendizaje automático no supervisado (K-Means y PCA).
-
+- Generación automática de informes y visualizaciones para el análisis de resultados.
 ---
 
