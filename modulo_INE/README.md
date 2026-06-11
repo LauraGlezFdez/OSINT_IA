@@ -74,6 +74,3 @@ El sistema trabaja con indicadores pertenecientes a tres grandes categorías:
 
 ---
 
-## Estado
-
-Versión experimental en desarrollo.
