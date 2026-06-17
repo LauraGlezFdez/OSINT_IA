@@ -1,10 +1,10 @@
-# Módulo Cibercriminalidad
+# Módulo de Cibercriminalidad
 
 ## Descripción
 
 Módulo orientado al análisis automatizado de estadísticas oficiales de criminalidad y cibercriminalidad procedentes de fuentes abiertas institucionales.
 
-El objetivo es construir conjuntos de datos que permitan estudiar patrones geográficos y temporales relacionados con la ciberdelincuencia, así como su posible relación con indicadores socioeconómicos procedentes de otras fuentes oficiales.
+El objetivo es construir conjuntos de datos que permitan estudiar patrones geográficos y temporales relacionados con la ciberdelincuencia mediante la aplicación de técnicas de análisis de datos y aprendizaje automático.
 
 ---
 
@@ -32,7 +32,7 @@ python analizador_cibercriminalidad.py
 
 ### Opción 2: Descargar nuevamente los datos desde la fuente oficial
 
-Alternativamente, el usuario puede obtener la información actualizada desde el Portal Estadístico de Criminalidad del Ministerio del Interior. Una vez descargado el fichero correspondiente, deberá guardarse con el nombre `cibercriminalidad_provincias.csv` en la misma carpeta que el script `analizador_cibercriminalidad.py`.
+Alternativamente, el usuario puede obtener una versión actualizada del conjunto de datos desde el Portal Estadístico de Criminalidad del Ministerio del Interior. Una vez descargado el fichero correspondiente, deberá guardarse con el nombre `cibercriminalidad_provincias.csv` en la misma carpeta que el script `analizador_cibercriminalidad.py`.
 
 Posteriormente, la ejecución se realiza mediante:
 
@@ -48,11 +48,11 @@ Con el fin de garantizar la reproducibilidad del análisis, el conjunto de datos
 
 ## Objetivos
 
-- Obtención automatizada de estadísticas de cibercriminalidad.
+- Procesamiento automatizado de estadísticas oficiales de cibercriminalidad.
 - Construcción de datasets estructurados.
 - Análisis exploratorio.
 - Aplicación de técnicas de aprendizaje automático no supervisado (K-Means y PCA).
-- Generación automática de informes y visualizaciones para el análisis de resultados..
+- Generación automática de informes y visualizaciones para el análisis de resultados.
 - Identificación de patrones territoriales mediante técnicas de aprendizaje automático no supervisado.
 ---
 
