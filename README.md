@@ -1,5 +1,7 @@
 # Sistema Inteligencia
 
+# Todo este proyecto ha sido desarrollado como parte del Trabajo de Fin de Estudio, en el Grado en Ingeniería Informática de UNIR
+
 ## Descripción
 
 Sistema experimental orientado a la obtención, integración, procesamiento y análisis automatizado de información procedente de fuentes abiertas institucionales mediante técnicas de Ciencia de Datos, Aprendizaje Automático e Inteligencia Artificial.
