@@ -1,6 +1,6 @@
-# Sistema Inteligencia
+## NOTA: Todo este proyecto ha sido desarrollado como parte del Trabajo de Fin de Estudio, en el Grado en Ingeniería Informática de UNIR.
 
-# Todo este proyecto ha sido desarrollado como parte del Trabajo de Fin de Estudio, en el Grado en Ingeniería Informática de UNIR
+# Sistema Inteligencia
 
 ## Descripción
 
