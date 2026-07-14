@@ -1,4 +1,4 @@
-## NOTA: Este repositorio contiene el código fuente desarrollado como parte del Trabajo Fin de Grado del Grado en Ingeniería Informática de la Universidad Internacional de La Rioja (UNIR).
+## NOTA: Este repositorio contiene el código fuente desarrollado como parte del Trabajo Fin de Estudios del Grado en Ingeniería Informática de la Universidad Internacional de La Rioja (UNIR).
 
 # Sistema Inteligencia
 
